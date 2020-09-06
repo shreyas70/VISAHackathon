@@ -2,16 +2,16 @@
 ## Hackathon submission by team '6 Rooks'
 
 The VISA experience is a value-added-service for Visa card holders. This app provides a convenient and seemless way to:
-1. Make reservations for a variety of services (restaurant booking, movie tickets, golf courses and much more)
-2. Avail offers
-3. Book cab to and from the service location
-4. Pay service provider, in a contact less manner
+1. Make reservations at nearby service providers
+2. Make contactless payment to servcie provider
+3. Avail offers
+4. Book cab to and from the service location
 
 It is aimed at offering an end-to-end solution for the user. This hackathon demo only takes care of the usecase of making reservations at restaurants.
 
 
 ### Demo Video
-[![](http://img.youtube.com/vi/iz5uk9vJERw/0.jpg)](http://www.youtube.com/watch?v=iz5uk9vJERw "Demo")
+[![](http://img.youtube.com/vi/iz5uk9vJERw/0.jpg)](https://www.youtube.com/watch?v=BX6ZhP1Ee5A "Demo")
 
 ### TechStack
 - React Native
